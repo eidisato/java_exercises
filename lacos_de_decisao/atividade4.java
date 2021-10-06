@@ -5,6 +5,7 @@ public class atividade4 {
 		// TODO Auto-generated method stub
 		int num;
 		double raiz, elevado;
+//CALCULO DE RAIZ NUMERO PAR, ELEVADO NUMERO IMPAR
 		Scanner scan=new Scanner(System.in);
 		
 		System.out.println("Entre com um numero inteiro qualquer: ");

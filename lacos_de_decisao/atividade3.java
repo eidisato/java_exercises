@@ -6,7 +6,7 @@ public class atividade3 {
 		// TODO Auto-generated method stub
 		int idade;
 		Scanner scan=new Scanner(System.in);
-		
+		//CATEGORIA
 		System.out.println("Informe a idade do competidor: ");
 		idade=scan.nextInt();
 		
