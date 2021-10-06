@@ -3,8 +3,8 @@ package aula01_10;
 import java.util.Scanner;
 
 public class atividade1 {
-
 	public static void main(String[] args) {
+		// Sequencial
 		// TODO Auto-generated method stub
 		int dia,mes,ano;
 		int dias_ano=365;
