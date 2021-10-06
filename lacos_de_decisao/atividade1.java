@@ -4,7 +4,7 @@ public class atividade1 {
 		public static void main(String[] args) {
 			Scanner scan=new Scanner(System.in);
 			int n1,n2,n3, maior;
-			
+			//decisão
 			System.out.println("Digite 3 valores: ");
 			n1=scan.nextInt();
 			n2=scan.nextInt();
