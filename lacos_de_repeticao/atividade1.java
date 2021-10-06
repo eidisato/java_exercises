@@ -6,6 +6,7 @@ obtemos resto = 5. */
 
 public class atividade1 {
 	public static void main(String[] args) {
+		//Repetição
 		int num; //informando variavel de entrada
 		
 		Scanner scan =new Scanner(System.in); // Criando classe Scanner para receber o valor da variavel
